@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheSpacePanther/MM2-script/refs/heads/main/MM2%20script.txt"))()
